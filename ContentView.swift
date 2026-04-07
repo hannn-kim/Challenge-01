@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    //깃허브 테스트 두번째임
     
     //더미데이터들
     let data: [ActivityInfo] = [
