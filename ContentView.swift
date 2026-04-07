@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    //이슈랑 코드 연결해서 커밋하는거 테스트
     //깃허브 테스트 두번째임
     
     //더미데이터들
