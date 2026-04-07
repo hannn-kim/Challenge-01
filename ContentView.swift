@@ -29,6 +29,8 @@ struct ContentView: View {
         
     ]
     
+    //세번째 커밋, 푸쉬 연습. 버전을 어떻게 볼 수 있는지 확인해야겠음
+    
     var body: some View {
         NavigationStack {
             //프로필 이미지, 이름, 오전/오후반
